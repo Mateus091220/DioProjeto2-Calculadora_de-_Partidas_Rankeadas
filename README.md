@@ -1,10 +1,10 @@
-# Calculadora de Partidas Rankeadas <h1>
+# Calculadora de Partidas Rankeadas 
 
-#### Descrição do Projeto <4>
-###### Este repositório contém uma calculadora de partidas ranqueadas, desenvolvida como parte do desafio proposto pela DIO. O objetivo deste projeto é aplicar conceitos fundamentais de programação, incluindo variáveis, operadores, laços de repetição, estruturas de decisão e funções, para calcular o nível de um jogador com base em suas vitórias e derrotas. <h6>
+#### Descrição do Projeto 
+######  * Este repositório contém uma calculadora de partidas ranqueadas, desenvolvida como parte do desafio proposto pela DIO. O objetivo deste projeto é aplicar conceitos fundamentais de programação, incluindo variáveis, operadores, laços de repetição, estruturas de decisão e funções, para calcular o nível de um jogador com base em suas vitórias e derrotas. <h6>
 
-#### Funcionalidade <4>
-###### A função principal deste projeto recebe a quantidade de vitórias e derrotas de um jogador e calcula seu saldo de partidas ranqueadas. Com base no número de vitórias, o jogador é classificado em um dos seguintes níveis:
+#### Funcionalidade 
+###### *  A função principal deste projeto recebe a quantidade de vitórias e derrotas de um jogador e calcula seu saldo de partidas ranqueadas. Com base no número de vitórias, o jogador é classificado em um dos seguintes níveis:
 
 Nivel    |  Quantidade de Vitorias
 --------- | ---------
