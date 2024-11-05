@@ -2,10 +2,9 @@
 <hl>Calculadora de Partidas Rankeadas<hl>
 
 
- O Que foi utilizado |
---------------------
- Variáveis 
- Operadores
- Laços de repetição
- Estruturas de decisões
- Funções
+Exemplo   | Valor do exemplo
+--------- | ------
+Exemplo 1 | R$ 10
+Exemplo 2 | R$ 8
+Exemplo 3 | R$ 7
+Exemplo 4 | R$ 8
